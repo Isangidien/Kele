@@ -31,4 +31,5 @@ Done installing documentation for kele after 0 seconds
 irb
 require './lib/kele'
  => true
+ >> k = Kele.new("Bloc email", "Bloc Password")
 ```
